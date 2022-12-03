@@ -74,6 +74,8 @@ level00@SnowCrash:~$ cat .profile
 	
 	level00@SnowCrash:~$ 
 
+level00@SnowCrash:~$ cd /home/user/level00
+
 # LEVEL 01
 
 # LEVEL 02
