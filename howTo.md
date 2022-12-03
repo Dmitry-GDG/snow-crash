@@ -85,7 +85,7 @@ VBoxManage convertfromraw --format VDI SnowCrash.iso SnowCrash.vdi
 
 7. Launch VM. At the top menu of your VM choose "View" -> "Virtual screen 1" -> "Scale to 275%" and get the IP address to be audited 
 
-<img width="721" alt="Screen Shot 2022-11-26 at 12 53 36" src="https://user-images.githubusercontent.com/84193980/204082890-99e880e2-4cf5-47ac-9344-d9beee74969a.png">
+<img width="809" alt="Screen Shot 2022-12-03 at 18 34 46" src="https://user-images.githubusercontent.com/84193980/205451097-88183d92-7ed7-4002-9874-cb45ad9bb164.png">
 
 8. That's all. Next step you will do on your Mac: type this IP address into terminal (?) and audit it. 
 
