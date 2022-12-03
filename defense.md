@@ -33,6 +33,8 @@ level00@SnowCrash:~$ ls -la
 
 level00@SnowCrash:~$ cat .profile 
 
+<img width="529" alt="Screen Shot 2022-12-03 at 19 34 55" src="https://user-images.githubusercontent.com/84193980/205451459-6b7814ad-65c7-4aa5-b499-c3e08e342ba8.png">
+
 	# ~/.profile: executed by the command interpreter for login shells.
 	
 	# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
