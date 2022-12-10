@@ -53,7 +53,7 @@ VBoxManage convertfromraw --format VDI SnowCrash.iso SnowCrash.vdi
 
 5. **Add a Host-Only Adapter to the Guest Machine.** For each guest you want to communicate with using the network from the previous step, you need to add a host-only adapter.
 
-	- Select the appropriate guest machine (override)
+	- Select the appropriate guest machine (snowcrash)
 
 	- Click Settings -> Аudio
 	```
