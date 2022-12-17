@@ -3,8 +3,10 @@
 
 # Defense the project
 
-# LEVEL 00
+[Level 00](snowcrash/level00/resources/whatever.md)
 
+<!---
+# LEVEL 00
 From subject: "Then, you will be able to connect using the following couple of login:password: level00:level00."
 
 In terminal:
@@ -75,34 +77,37 @@ level00@SnowCrash:~$ cat .profile
 	level00@SnowCrash:~$ 
 
 level00@SnowCrash:~$ cd /home/user/level00
+-->
 
-# LEVEL 01
+[Level 01](snowcrash/level01/resources/whatever.md)
 
-# LEVEL 02
+[Level 02](snowcrash/level02/resources/whatever.md)
 
-# LEVEL 03
+[Level 03](snowcrash/level03/resources/whatever.md)
 
-# LEVEL 04
+[Level 04](snowcrash/level04/resources/whatever.md)
 
-# LEVEL 05
+[Level 05](snowcrash/level05/resources/whatever.md)
 
-# LEVEL 06
+[Level 06](snowcrash/level06/resources/whatever.md)
 
-# LEVEL 07
+[Level 07](snowcrash/level07/resources/whatever.md)
 
-# LEVEL 08
+[Level 08](snowcrash/level08/resources/whatever.md)
 
-# LEVEL 09
+[Level 09](snowcrash/level09/resources/whatever.md)
 
-# LEVEL 10
+[Level 10](snowcrash/level10/resources/whatever.md)
 
-# LEVEL 11
+[Level 11](snowcrash/level11/resources/whatever.md)
 
-# LEVEL 12
+[Level 12](snowcrash/level12/resources/whatever.md)
 
-# LEVEL 13
+[Level 13](snowcrash/level13/resources/whatever.md)
 
-# LEVEL 14
+[Level 14](snowcrash/level14/resources/whatever.md)
+
+
 
 
 | [README](README.md) | [subject](subject_ru.md) | [How to start a web server](howTo.md) | defense |

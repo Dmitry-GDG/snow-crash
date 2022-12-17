@@ -1,3 +1,5 @@
+[back](../../../defense.md)
+
 Из сабжекта: 
 "Then, you will be able to connect using the following couple of login:password: level00:level00."
 
@@ -147,3 +149,5 @@ flag00@SnowCrash:~$ id flag14
 flag00@SnowCrash:~$ id flag15
 	id: flag15: No such user
 ```
+
+[back](../../../defense.md)

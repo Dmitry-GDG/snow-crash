@@ -1,3 +1,6 @@
+[back](../../../defense.md)
+
+<!---
 //
 // ###  Сделано на предыдущем шаге ###
 //
@@ -65,27 +68,34 @@
 //	```
 
 //	В строке (+439) получают UID пользователя и передают в строку (+444)
+-->
 
 UID следующего пользователя получен на шаге 00.
-Передадим в строчку +444 идентификатор пользователя (UID) flag14 = 3014, 
-для чего изменим возвращаемое значение getuid на (UID) flag14.
+Передадим в строчку +444 идентификатор пользователя (UID) flag05 = 3005, 
+для чего изменим возвращаемое значение getuid на (UID) flag05.
 
+<!---
 // Ставим точку останова после вызова <getuid@plt>
 
 ```
 // (gdb) b *main+444 - уже задана точка останова на предыдущем шаге
 //	 	Note: breakpoint 2 also set at pc 0x8048b02.
 //	 	Breakpoint 3 at 0x8048b02
+-->
+
+```
 (gdb) r
 	Catchpoint 1 (call to syscall ptrace), 0xb7fdd428 in __kernel_vsyscall ()
 	Catchpoint 1 (returned from syscall ptrace), 0xb7fdd428 in __kernel_vsyscall ()
 	Breakpoint 2, 0x08048b02 in main ()
-(gdb) set $eax=3014
+(gdb) set $eax=3005
 (gdb) c
 	Continuing.
-	Check flag.Here is your token : 7QiHafiNa3HVozsaXkawuYrTstxbpABHD8CPnHJ
+	Check flag.Here is your token : viuaaale9huek52boumoomioc
 	[Inferior 1 (process 2620) exited normally]
 (gdb) q
 ```
 
 Это и есть наш флаг. 
+
+[back](../../../defense.md)
